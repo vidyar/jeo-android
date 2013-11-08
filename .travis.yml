@@ -2,6 +2,6 @@ language: java
 notifications:
   email:
     recipients:
-      - jeo-dev@googlegroups.com
+      - vidya@shippable.com
     on_success: change
     on_failure: always
