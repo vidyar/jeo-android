@@ -1,4 +1,5 @@
 language: java
+build_environment : Ubuntu1304
 notifications:
   email:
     recipients:
